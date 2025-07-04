@@ -1,4 +1,4 @@
-# Stock Price Prediction (GOOGLE DEVELOPER GROUPS, IIT KANPUR)
+# Stock Price Prediction (Google Developer Groups, IIT Kanpur)
 
 This repository contains a comparative study and implementation of traditional statistical models and deep learning models for stock price forecasting. The project evaluates performance across multiple stocks using real-world data and standard evaluation metrics.
 
